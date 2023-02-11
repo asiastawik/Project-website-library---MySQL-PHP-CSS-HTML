@@ -1,0 +1,72 @@
+body {
+	background-color: #E6E6FA;
+    margin-left: auto;
+    margin-right: auto;    
+}
+	
+h1 {
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	text-align: center;
+	width: 100%;
+}
+
+.btn {
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	border: 2px solid rgba(0,0,200,0.6);
+	background: rgba(0,0,200,0.3);
+	color: rgba(0,0,200,0.6);
+	box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+	border-radius: 10px;
+	padding: 3px 10px;
+	display: inline-block;
+	cursor: pointer;
+	display: inline-block;
+	outline: 0;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+	
+.btn:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+footer {
+	clear: both;
+    background-color: black;
+    color: white;
+    padding: 5px;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	bottom: 0;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+#nav {
+	padding: 20px;
+}
+#content {
+	padding: 20px;
+}
+.error
+{
+	color:red;
+	margin-top: 10px;
+	margin-bottom: 10 px;
+}
+		
+.done
+{
+	color:blue;
+	margin-top: 10px;
+	margin-bottom: 10 px;
+}
