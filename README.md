@@ -21,7 +21,7 @@ An admin could lent books, add new books or delete them, and manage users.
 - HTML/CSS.
 
 ## Screenshots
-(./img/AMain.png) 
+(./img/Main.png) 
 (./img/Admin.png) 
 (./img/Admin2.png) 
 (./img/Admin3.png) 
