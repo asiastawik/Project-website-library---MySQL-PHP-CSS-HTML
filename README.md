@@ -21,14 +21,14 @@ An admin could lent books, add new books or delete them, and manage users.
 - HTML/CSS.
 
 ## Screenshots
-(./img/Main.png) 
-(./img/Admin.png) 
-(./img/Admin2.png) 
-(./img/Admin3.png) 
-(./img/Login.png)
-(./img/Register.png) 
-(./img/User.png) 
-(./img/User1.png) 
+![Main site](./img/Main.png) 
+![Admin panel](./img/Admin.png) 
+![Admin panel](./img/Admin2.png) 
+![Admin panel](./img/Admin3.png) 
+![Login panel](./img/Login.png)
+![Register panel](./img/Register.png) 
+![User panel](./img/User.png) 
+![User panel](./img/User1.png) 
 
 ## Setup
 Install XAMPP, open the XAMPP Control Panel, run Apache and MySQL. 
