@@ -28,7 +28,7 @@ An admin could lent books, add new books or delete them, and manage users.
 ![Login panel](./img/Login.png)
 ![Register panel](./img/Register.png) 
 ![User panel](./img/User.png) 
-![User panel](./img/User1.png) 
+![User panel](./img/User2.png)
 
 ## Setup
 Install XAMPP, open the XAMPP Control Panel, run Apache and MySQL. 
